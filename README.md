@@ -1,5 +1,8 @@
 ## Cauã..
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=859fc2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Cauã+Ribeiro;I'm+20+years+old;I+from+Brazil,+São+Paulo;I+study+systems+analysis+and+development+at+Senac;+Welcome!+:(￣y▽,￣)╭ )](https://git.io/typing-svg)
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Cry199&show_icons=true&theme=dark"
